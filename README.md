@@ -1,7 +1,7 @@
 # Xylophone-Flutter
 
 A simple flutter application.
-The app Allows the user tp play a different sound for each of the buttons on screen.
+The app Allows the user to play a different sound for each of the buttons on screen.
 
 This app was created along with the course 'The Complete 2020 Flutter Development Bootcamp with Dart'.
 
